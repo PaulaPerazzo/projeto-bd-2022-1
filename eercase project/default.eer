@@ -35,7 +35,7 @@
     <nodes xmi:type="eer:Relationship" xmi:id="_r4ixAAhqEe2-x9oi3BKVbg" name="Produção" relationshipLink="_1FPKEAhqEe2-x9oi3BKVbg _1nvaMAhqEe2-x9oi3BKVbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_PE1DIAhsEe2-x9oi3BKVbg" name="cidade" AttributeLinkTarget="_atdTIAhsEe2-x9oi3BKVbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_RKRFoAhsEe2-x9oi3BKVbg" name="país" AttributeLinkTarget="_aQcnAAhsEe2-x9oi3BKVbg"/>
-    <nodes xmi:type="eer:Attribute" xmi:id="_csqKwAhsEe2-x9oi3BKVbg" name="ID_produtor" type="IDENTIFIER" AttributeLinkTarget="_hGSdcAhsEe2-x9oi3BKVbg"/>
+    <nodes xmi:type="eer:Attribute" xmi:id="_csqKwAhsEe2-x9oi3BKVbg" name="ID_pessoa" type="IDENTIFIER" AttributeLinkTarget="_hGSdcAhsEe2-x9oi3BKVbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_ysZYgAhsEe2-x9oi3BKVbg" name="temporada" AttributeLinkTarget="_4WRLEAhsEe2-x9oi3BKVbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_1ORfYAhsEe2-x9oi3BKVbg" name="número" AttributeLinkTarget="_5Cv2kAhsEe2-x9oi3BKVbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_AgKDVwhtEe2-x9oi3BKVbg" name="cidade" AttributeLinkTarget="_HglZIAhtEe2-x9oi3BKVbg"/>
