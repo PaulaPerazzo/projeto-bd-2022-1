@@ -105,7 +105,7 @@
     <links xmi:type="eer:RelationshipLink" xmi:id="_u4H48AlZEe2XXfSCJBfZOg" source="_AM9nUAe5Ee2x1KWe1ob6mg" target="_sLbpMAlZEe2XXfSCJBfZOg" cardinality="MANY" role="subordinado"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_7M054AlbEe2XXfSCJBfZOg" source="_AivqEAe5Ee2x1KWe1ob6mg" target="_6FzAYAlbEe2XXfSCJBfZOg" cardinality="MANY"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_7mf-IAlbEe2XXfSCJBfZOg" source="_A22R0Ae5Ee2x1KWe1ob6mg" target="_6FzAYAlbEe2XXfSCJBfZOg" cardinality="MANY"/>
-    <links xmi:type="eer:RelationshipLink" xmi:id="_cfvaIAleEe2XXfSCJBfZOg" source="_AivqEAe5Ee2x1KWe1ob6mg" target="_5PCbkAhrEe2-x9oi3BKVbg" cardinality="MANY"/>
+    <links xmi:type="eer:RelationshipLink" xmi:id="_cfvaIAleEe2XXfSCJBfZOg" source="_AivqEAe5Ee2x1KWe1ob6mg" target="_5PCbkAhrEe2-x9oi3BKVbg"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_yGxiEAlgEe29gKgzPjfixQ" source="_n1th8AlgEe29gKgzPjfixQ" target="_vTF5gAlgEe29gKgzPjfixQ" cardinality="MANY"/>
     <links xmi:type="eer:RelationshipLink" xmi:id="_ydpxAAlgEe29gKgzPjfixQ" source="_kyrOwAlgEe29gKgzPjfixQ" target="_vTF5gAlgEe29gKgzPjfixQ" cardinality="MANY"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_ImlXAAlhEe29gKgzPjfixQ" source="_n1th8AlgEe29gKgzPjfixQ" target="_G_F0wAlhEe29gKgzPjfixQ"/>
@@ -926,6 +926,11 @@
       <styles xmi:type="notation:RoutingStyle" xmi:id="_70KKkUQ-Ee2-hPcfc2Nysw"/>
       <styles xmi:type="notation:FontStyle" xmi:id="_70KKkkQ-Ee2-hPcfc2Nysw" fontName="Ubuntu"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_70KKk0Q-Ee2-hPcfc2Nysw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    </edges>
+    <edges xmi:type="notation:Edge" xmi:id="_wZInkETUEe2RBt1eywas4Q" type="4007" element="_3DLc8ERAEe2-hPcfc2Nysw" source="_QnI3oAliEe29gKgzPjfixQ" target="_zxx9oERAEe2-hPcfc2Nysw">
+      <styles xmi:type="notation:RoutingStyle" xmi:id="_wZInkUTUEe2RBt1eywas4Q"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_wZJOoETUEe2RBt1eywas4Q" fontName="Ubuntu"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wZJOoUTUEe2RBt1eywas4Q" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
     </edges>
   </notation:Diagram>
 </xmi:XMI>
